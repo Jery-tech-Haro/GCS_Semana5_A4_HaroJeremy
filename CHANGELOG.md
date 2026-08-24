@@ -4,11 +4,11 @@
 - (pendiente)
 
 ## [v1.2.0] - 2026-08-24
-- Auditoría funcional (ISSUE-2):
+- Auditoría funcional (ISSUE-2, issue #3, PR #4):
   - Implementado `REQ-003`: filtro de productos por fecha de alta (`FilterByDate`, rango `desde`/`hasta` ISO-8601).
   - Definidos y verificados 3 criterios de aceptación con pruebas automatizadas (`docs/audit/AUDITORIA_FUNCIONAL_REQ-003.md`).
   - `Product` ahora incluye el campo `CreatedAt`.
-- Entrega/Despliegue (ISSUE-3):
+- Entrega/Despliegue (ISSUE-3, issue #5, PR #6):
   - Agregado pipeline de integración continua (`.github/workflows/ci.yml`) que corre `go build` y `go test ./...` en cada push/PR a `main`.
 
 ## [v1.1.0] - 2026-08-21
