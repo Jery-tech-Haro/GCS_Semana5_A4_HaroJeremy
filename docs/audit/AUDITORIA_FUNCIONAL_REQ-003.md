@@ -2,7 +2,7 @@
 
 Rol: Auditor Funcional (Requisitos)
 Requisito auditado: `REQ-003` ([docs/SRS/SRS_v1.md](../SRS/SRS_v1.md))
-Issue: `ISSUE-2`
+Issue: `ISSUE-2` (GitHub #3) — PR #4
 
 ## Criterios de aceptación
 

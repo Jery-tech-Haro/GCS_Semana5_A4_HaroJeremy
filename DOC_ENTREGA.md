@@ -1,7 +1,7 @@
 # DOC_ENTREGA.md — Entrega/Despliegue
 
 Rol: Entrega/Despliegue (Opcional PRO)
-Issue: `ISSUE-3`
+Issue: `ISSUE-3` (GitHub #5) — PR #6
 
 ## Pipeline de integración continua
 
